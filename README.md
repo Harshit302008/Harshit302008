@@ -36,6 +36,26 @@ Building projects, learning new technologies, and solving real-world problems.
 - 🚆 **Rail Network** — Railway information web project
 - 🤖 **AI Business Automation** — Exploring intelligent business workflows
 
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Harshit302008">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/harshitsin0010/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+**GitHub:** [Harshit302008](https://github.com/Harshit302008)
+
+**Instagram:** [@harshitsin0010](https://www.instagram.com/harshitsin0010/)
+
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
