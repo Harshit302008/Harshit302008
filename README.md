@@ -1,4 +1,108 @@
-<img width="430" height="190" alt="image" src="https://github.com/user-attachments/assets/07096de8-bab2-47a4-bc62-3076022e0018" />
+[Harshit302008_Terminal_Style_Profile.md](https://github.com/user-attachments/files/33919523/Harshit302008_Terminal_Style_Profile.md)
+
+<div align="center">
+
+# Harshit Kumar Singh
+
+**B.Tech Student · Developer · Problem Solver 🚀**
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="38%">
+
+<pre>
+MWWNNWWNNWNWNWWWWWWWWWWWWWWMWWWWWWWWWWWWWM
+XxxOxkOOO0000KOkOo0kxOO0XOO0KKKXXKXKKXXXXN
+WNNK0OKO00xKokOxkK''..oX000K0000K0KKK0KKKN
+WKOdooodxooddox'.. .   .Ox0O0Ok0K0KKKKKKKN
+MXXNXKXXKKkk0x. . ...  .k0xxok0Od00OK0kk0N
+WXXK0KKKKKXX.. .'':,dl. .lXXKK0OOxxk00KK0N
+WKKKKkkkxKO:.....:o:lc,  kxoXNXK0KKKKK0K0N
+WXXXKkkOK0K. ....:l:co   00OOlOW0K00000KKN
+W0Okxdxddl.,  ...,;c. ...;,xxxxx0KKWXXXKKN
+Nooddoo;..,. .............,.,lOddkxl0XXXKN
+WOdoo::.....  ........ . ..,c''ldKKKOo0NxN
+WOKKkx;'.. .  ..'..... . .xX0xd,;',lX00kON
+WkkOOxl;.  .. ...',:.; ...OOOxl;ldcx00kxlN
+WkkOk;c..  ..  ...........:lNKKK0OOklxKXXN
+WOOOc:,..   .  ............dKXXXKXXKd0o0XN
+MNKOd.....     ..... ......O00XXKXXXXKKKON
+WKKK0.   .. .  .............XXKKKxO0OddloN
+WOOOO'.   . .  '............NNNXKXXXXXxc0N
+Wkkkk... .   . .............XN0xO000KXX00N
+Wxkxx,  .  . ...............xkkxkNoldkKXXN
+Wxxxxd...............,l.....odoodddkXXNXKN
+Ndkkxd...........,;.........c:,::ccdddkkoN
+Ndddoo.....:;,'.,';,'.,.....:loxdo:ol;cooX
+Nddllol...,cl:;,'o:cc.'......:ccolldd:;:kN
+Wo::llol...cll:;;;'..,,....'''old:::coxclN
+Wdc;:lodl...:l::,';.........',.xc;;;cclldN
+Ndl,;:cld;...;cc';''........'.'dd;,,cllllN
+Nodl,;::l:c...cl;;',,''........'oolclllllN
+Ndxdol::cllc'..lc:,'.'''.........lollllldN
+WNNNNNNNNNNNNNNNNNNXXXXNXXXXXXXXXXNXXXNNNM
+</pre>
+
+</td>
+<td valign="top" width="62%">
+
+<pre>
+Harshit302008@github
+-------------------------------
+Role       : B.Tech Student
+Focus      : Software Development
+Learning   : DSA, Python, C++
+Interests  : AI/ML, Web Development
+
+LANGUAGES
+- C++       - Python
+- HTML/CSS  - JavaScript
+
+PROJECTS
+- Spam Message Detector
+- Rail Network Web Project
+- AI Business Automation
+
+CONTACT
+GitHub     : github.com/Harshit302008
+Instagram  : @harshitsin0010
+
+GITHUB STATS
+Repos      : github.com/Harshit302008
+Profile    : Open to learning & building
+-------------------------------
+</pre>
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit302008&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit302008&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit302008&theme=tokyo-night&hide_border=true&area=true)
+
+## 🌐 Connect With Me
+
+- **GitHub:** [Harshit302008](https://github.com/Harshit302008)
+- **Instagram:** [@harshitsin0010](https://www.instagram.com/harshitsin0010/)
+
+<div align="center">
+
+*Code. Learn. Build. Repeat.*
+
+</div>
 
 
 
