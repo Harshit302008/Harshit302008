@@ -56,10 +56,6 @@ Building projects, learning new technologies, and solving real-world problems.
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
 
 ## 📊 GitHub Statistics
 
