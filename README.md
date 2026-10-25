@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Harshit Kumar Singh 👋
+ Harshit Kumar Singh 
 
 ### B.Tech Student | Developer | Problem Solver 🚀
 
