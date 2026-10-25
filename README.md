@@ -42,7 +42,7 @@ Building projects, learning new technologies, and solving real-world problems.
 <div align="center">
 
 <a href="https://github.com/Harshit302008">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/harshitsin0010/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
