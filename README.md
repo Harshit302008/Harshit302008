@@ -7,7 +7,9 @@
 
 Building projects, learning new technologies, and solving real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshit302008&color=blueviolet&style=flat-square)
+
 
 </div>
 
