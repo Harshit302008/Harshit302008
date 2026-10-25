@@ -68,13 +68,12 @@ Building projects, learning new technologies, and solving real-world problems.
 
 </div>
 
+
 ## 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit302008&theme=tokyo-night&hide_border=true&area=true)
 
----
-
-<div align="center">
+[View My GitHub Contributions](https://github.com/Harshit302008)
 
 ### 💡 Code. Learn. Build. Repeat.
 
