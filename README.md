@@ -1,42 +1,5 @@
 
-## 👨‍💻 Developer Portrait
 
-<div align="center">
-
-<pre>
-[Uploading banner (1).txt…]()
-kkOOO0OkkO0OO0OO000000K0KKKKKKKKKXXXXXXXKXXXXXXXXX
-OO0000OOOOO0OkkkOkkOOxoodxkO0K0KKKKKKKKKKKKKKKKKKK
-XK00OOkkkkkkkxdkOkol:'...'':dO000KKK00KKKKKKKKKKKK
-XK00Okkxkkxdxxdo:,.....    ..lkkkkO0000O0000KK000K
-XKKK0000000OOOo,.....'',;,'..,dk00O0K0OOOOO0000000
-XXK0OO0KKKKKOc.....';ccclc:. .lkOO00K0000000KKK000
-XXXKKOO000K0o......':lcclo:. .:xxkOOOKKKKKKK000KKK
-KKK0OkkkOkkl,. .....,:c:;,.. .,loxkxkOkOKKKKKKKKKK
-xdddddooc;,..........,,........',:ldkkxxxkOO0KXXKK
-Oxddolc;'......................',;c::clldkkO0OOK00
-00Okxdc,'..... ................;okko:;:clodkOkxkkO
-OkOOOdc;'..  .  ...''''........;x0Okxdxxdccd00OOkk
-OkkOxl:,..   .. ................l0KXKK00OxoodxOKKX
-0OOkl;,...    .  ...............:OKXXKKKK00kddkOKK
-XKK0l.......     ...............,d00KKKKKXXXKK00kk
-KKKKx,.      ....................c0XXKKKKK000Okxkk
-0OOOk:..      ...................c0NNKKKXXKKKKOxkO
-Okkkx;.... ..  ..................:OXKkkkOOOOOKKK00
-kxxxxc. .... ....................;dkkxdxkxdxO0XXXX
-kxxkxo,.................',,'.....,cclllloodxkO0K0O
-xxxxdo;......,''...',;,..........'clcccc:codoloxdd
-xddoooc'....;::;,'',;;;;'.''......':lloollool::lox
-xolllllc'...;ccc:;,,,,;,'.''.......':llolclllolclk
-xl::ccloc'...;clc:;,,,'..........''',colc:::clolod
-xo:;;:clol,...':c:;,,,'...........''':ol:;;:clllod
-xol:;;:cllc,....;c:;,,'''''..........':lllcclllllo
-xddolcccclcc:,'.,cc:;,''''''..........',cllccllood
-xdddddddddddolllloolc:;,,,,,,,'''',,,,,,:ol::loodk
-
-</pre>
-
-</div>
 
 <div align="center">
 
