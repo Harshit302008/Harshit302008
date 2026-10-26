@@ -54,6 +54,8 @@ Building projects, learning new technologies, and solving real-world problems.
 <a href="https://www.instagram.com/harshitsin0010/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+<a href ="https://www.linkedin.com/in/harshit-kumar-singh-2491b7390/">
+<img src ="https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin
 
 <br/><br/>
 
